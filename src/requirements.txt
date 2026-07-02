@@ -1,0 +1,12 @@
+os
+pandas
+sentence_transformers
+scipy
+numpy
+sklearn
+umap-learn
+collections
+odfpy
+matplotlib
+plotly
+adjustText
