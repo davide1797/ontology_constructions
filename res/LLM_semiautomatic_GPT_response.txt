@@ -1,0 +1,4 @@
+0: Hybrid-expert
+1: Hybrid-advanced
+2: Scrape-AI
+3: Database-AI
