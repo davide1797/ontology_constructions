@@ -1,1 +1,4 @@
-
+0: LLM-Based and Structured Engineering Methodologies
+1: Scraping-Based Text Mining and Statistical/NLP Learning
+2: Database Mapping and Formal/Procedural Verification 
+3: Expert-Driven Semantic and Graph-Based Modeling 
