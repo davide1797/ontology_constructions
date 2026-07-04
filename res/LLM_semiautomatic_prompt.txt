@@ -1,0 +1,5 @@
+Given this dataset of semi-automatic ontology construction approaches,
+
+[dataset]
+
+can you identify general clusters to group them? Return only the names of the clusters and their basic characteristics?
