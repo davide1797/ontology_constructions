@@ -1,4 +1,28 @@
 0: LLM-based Ontology Construction
+  Tang et al. 
+  Kommineni et al. 
+  Doumanas et al.
+  Huang et al. 
+  Lichtnow et al.
+  (3 Hybrid-advanced, 2 Scrape-AI)
 1: NLP and Semantic/Linguistic Techniques
+  Qiu et al.
+  Fawei et al.
+  Chandolikar et al. 
+  Dera et al.
+  Zhao et al. 
+  (2 Hybrid-expert, 1 Hybrid-advanced, 1 Scrape-AI)
 2: Algorithmic and Mathematical Methods
+  Wang et al. 
+  Rani et al. 
+  Ma et al. 
+  ten Haaf et al.
+  Wu et al. 
+  (3 Hybrid-expert, 1 Hybrid-advanced, 1 Database-AI)
 3: Specific Procedure-based Construction
+  ElAssy et al.
+  Mesmia et al. 
+  Pan et al.
+  Sobhogol et al.
+  Gadusu et al. 
+  (3 Hybrid-expert, 2 Scrape-AI, 1 Database-AI)
