@@ -1,4 +1,28 @@
 0: LLM-Based and Structured Engineering Methodologies
+  Tang et al.
+  Kommineni et al. 
+  Doumanas et al.
+  Huang et al.
+  Lichtnow et al.
+  (3 Hybrid-advanced, 2 Database-AI)
 1: Scraping-Based Text Mining and Statistical/NLP Learning
+  Rani et al.
+  Chandolikar et al.
+  Dera et al. 
+  Zhao et al. 
+  ten Haaf et al.
+  Mesmia et al.
+  (2 Hybrid-expert, 4 Hybrid-advanced)
 2: Database Mapping and Formal/Procedural Verification 
+  Ma et al.
+  Sobhogol et al. 
+  Gadusu et al. 
+  (1 Hybrid-advanced, 2 Database-AI)
 3: Expert-Driven Semantic and Graph-Based Modeling 
+  Wang et al.
+  Qiu et al. 
+  Fawei et al. 
+  ElAssy et al. 
+  Pan et al.
+  Wu et al.
+  (3 Hybrid-expert, 3 Hybrid-advanced)
