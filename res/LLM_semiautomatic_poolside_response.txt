@@ -4,23 +4,29 @@
   Doumanas et al. 
   Huang et al. 
   Lichtnow et al.
+  (5 LLM-Assisted) 
 1: Expert-Involved Manual with Traditional Automation  
   Wang et al.  
   Rani et al.
   Fawei et al.
   Wu et al.
+  (4 Expert-Driven)
 2: Scraping and NLP Integration  
   Chandolikar et al.
   Dera et al.
   Zhao et al.
   ten Haaf et al.
+  (4 Scraping-Centric)
 3: Ontology Development Frameworks  
   Qiu et al.
   Pan et al.
   Gadusu et al.
+  (3 Lightweight Semi-Automation)
 4: Model Checking and Custom Procedures
   Ma et al.
   ElAssy et al.
   Mesmia et al.
   Sobhogol et al.
-  Gadusu et al.
+  (1 Expert-Driven, 1 Scraping-Centric, 2 Data Transformation)
+
+
