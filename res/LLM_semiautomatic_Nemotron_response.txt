@@ -1,0 +1,29 @@
+0: Expert-Driven 
+  Wang et al.
+  Rani et al.
+  Fawei et al.
+  ElAssy et al.
+  Wu et al.
+
+1: Scraping-Centric
+  Chandolikar et al.
+  Dera et al.
+  Zhao et al.
+  ten Haaf et al.
+  Mesmia et al.
+
+2: LLM-Assisted
+  Tang et al.
+  Kommineni et al.
+  Doumanas et al.
+  Huang et al.
+  Lichtnow et al.
+
+3: Data Transformation
+  Ma et al.
+  Sobhogol et al.
+
+4: Lightweight Semi-Automation
+  Qiu et al.
+  Pan et al.
+  Gadusu et al.
