@@ -1,0 +1,26 @@
+0: LLM-Based Approaches
+  Tang et al.
+  Kommineni et al.  
+  Doumanas et al. 
+  Huang et al. 
+  Lichtnow et al.
+1: Expert-Involved Manual with Traditional Automation  
+  Wang et al.  
+  Rani et al.
+  Fawei et al.
+  Wu et al.
+2: Scraping and NLP Integration  
+  Chandolikar et al.
+  Dera et al.
+  Zhao et al.
+  ten Haaf et al.
+3: Ontology Development Frameworks  
+  Qiu et al.
+  Pan et al.
+  Gadusu et al.
+4: Model Checking and Custom Procedures
+  Ma et al.
+  ElAssy et al.
+  Mesmia et al.
+  Sobhogol et al.
+  Gadusu et al.
