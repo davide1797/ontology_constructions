@@ -3,12 +3,14 @@
 2. Relational Database Mapping
   Ma et al.
   Sobhogol et al.
+  (2 Data Transformation)
 3. LLM-Based Approaches
   Tang et al.
   Kommineni et al.
   Doumanas et al.
   Huang et al.
   Lichtnow et al.
+  (5 LLM-Assisted)
 4. NLP/ML Techniques
   Qiu et al.
   Fawei et al.
@@ -16,12 +18,15 @@
   Dera et al.
   Zhao et al.
   ten Haaf et al.
+  (1 Expert-driven, 4 Scraping-Centric, 1 Lightweight Semi-Automation) 
 5. Specific Procedure
   ElAssy et al.
   Mesmia et al.
   Pan et al.
   Gadusu et al.
+  (1 Expert-Driven, 1 Scraping-Centric, 2 Lightweight Semi-Automation) 
 6. Mathematical/Algorithmic Methods
   Wang et al.
   Rani et al.
   Wu et al.
+  (3 Expert-Driven)
