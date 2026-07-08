@@ -1,1 +1,27 @@
-
+0. Manual-Intensive Approaches
+1. Scraping-Based Approaches
+2. Relational Database Mapping
+  Ma et al.
+  Sobhogol et al.
+3. LLM-Based Approaches
+  Tang et al.
+  Kommineni et al.
+  Doumanas et al.
+  Huang et al.
+  Lichtnow et al.
+4. NLP/ML Techniques
+  Qiu et al.
+  Fawei et al.
+  Chandolikar et al.
+  Dera et al.
+  Zhao et al.
+  ten Haaf et al.
+5. Specific Procedure
+  ElAssy et al.
+  Mesmia et al.
+  Pan et al.
+  Gadusu et al.
+6. Mathematical/Algorithmic Methods
+  Wang et al.
+  Rani et al.
+  Wu et al.
